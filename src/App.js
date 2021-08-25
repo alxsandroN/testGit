@@ -26,7 +26,7 @@ function App() {
 
       esta es la rama local 
 
-      otro commit 
+      Commit desde rama Johan
         </a>
       </header>
     </div>

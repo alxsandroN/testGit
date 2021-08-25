@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Samuel
+          Commit directo Github
         </a>
       </header>
     </div>

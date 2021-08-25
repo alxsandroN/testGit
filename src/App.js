@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Samuel
+cambio Miguel 
+          Git merge ggg ezz
         </a>
       </header>
     </div>
